@@ -1,6 +1,6 @@
 {
   "platform": "github",
   "forkProcessing": "disabled",
-  "repositories": ["backstage/community-plugins"],
+  "repositories": ["SchwrzSimon/community-plugins"],
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>"
 }
